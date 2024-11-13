@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "ScreenSaverController",
+            "object": true,
+            "qualifiedClassName": "ScreenSaverController",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "screensaver.h",
+    "outputRevision": 68
+}

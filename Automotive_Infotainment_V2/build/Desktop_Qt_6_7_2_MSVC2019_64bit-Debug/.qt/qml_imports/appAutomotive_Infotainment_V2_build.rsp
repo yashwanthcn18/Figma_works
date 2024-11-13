@@ -1,0 +1,15 @@
+-rootPath
+D:/SSK/Automotive_Infotainment_V2
+-cmake-output
+-output-file
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/qml_imports/appAutomotive_Infotainment_V2_build.cmake
+-importPath
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/Automotive_Infotainment_V2
+-importPath
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml
+-qrcFiles
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qmake_Automotive_Infotainment_V2.qrc
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/appAutomotive_Infotainment_V2_raw_qml_0.qrc
+D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/appImages.qrc
