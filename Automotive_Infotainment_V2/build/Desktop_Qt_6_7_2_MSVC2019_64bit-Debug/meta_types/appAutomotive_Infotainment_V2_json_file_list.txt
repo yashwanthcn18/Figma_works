@@ -1,1 +1,0 @@
-D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appAutomotive_Infotainment_V2_autogen/include/../EWIEGA46WW/moc_screensaver.cpp.json

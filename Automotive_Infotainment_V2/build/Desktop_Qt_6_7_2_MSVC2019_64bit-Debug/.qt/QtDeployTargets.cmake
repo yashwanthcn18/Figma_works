@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appAutomotive_Infotainment_V2_FILE D:/SSK/Automotive_Infotainment_V2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appAutomotive_Infotainment_V2.exe)
-set(__QT_DEPLOY_TARGET_appAutomotive_Infotainment_V2_TYPE EXECUTABLE)

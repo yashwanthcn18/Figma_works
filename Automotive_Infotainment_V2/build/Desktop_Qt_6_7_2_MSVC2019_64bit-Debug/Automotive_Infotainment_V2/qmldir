@@ -1,5 +1,0 @@
-module Automotive_Infotainment_V2
-typeinfo appAutomotive_Infotainment_V2.qmltypes
-prefer :/qt/qml/Automotive_Infotainment_V2/
-Main 1.0 Main.qml
-
